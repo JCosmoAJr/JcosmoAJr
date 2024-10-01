@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Cosmo. Bem vindo ao meu perfil! 👋
 <div style="display: inline_block"><br>
-  <img align="right" alt=Joao-lain" height="130" width="160" src="https://images-ext-1.discordapp.net/external/w3yUMOzhM-Z2TY3e4eGWqRLBMtkhYVVX6lyKqAS1XLU/https/media1.tenor.com/m/AtAW1M7pHggAAAAC/lain-experiments.gif">
+  <img align="right" alt=Joao-lain" height="120" width="160" src="https://images-ext-1.discordapp.net/external/w3yUMOzhM-Z2TY3e4eGWqRLBMtkhYVVX6lyKqAS1XLU/https/media1.tenor.com/m/AtAW1M7pHggAAAAC/lain-experiments.gif">
 </div>
 
 - 🧑‍💼 Hoje trabalho com Telemarketing 
